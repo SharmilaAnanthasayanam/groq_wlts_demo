@@ -1,0 +1,5 @@
+streamlit==1.44.0
+pydub==0.25.1
+yt-dlp==2025.3.27
+groq==0.20.0
+streamlit-extras==0.6.0
